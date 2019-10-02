@@ -8,9 +8,12 @@
          FlutterApplication and put your custom class here. -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <application
+
         android:name="io.flutter.app.FlutterApplication"
         android:label="great_places"
         android:icon="@mipmap/ic_launcher">
+        <meta-data android:name="com.google.android.geo.API_KEY"
+                   android:value="AIzaSyA2l3P6z6FFWyU3RVVlTXJuvu0dY27GLIU"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

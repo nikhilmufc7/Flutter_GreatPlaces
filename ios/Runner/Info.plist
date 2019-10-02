@@ -26,6 +26,8 @@
 	<string>We Need to take a picture!</string>
 	<key>NSCameraUsageDescription</key>
 	<string>We Need to take a picture!</string>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Need to get your location</string>
     <key>NSLocationAlwaysUsageDescription</key>
