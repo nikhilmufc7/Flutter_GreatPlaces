@@ -11,7 +11,7 @@ git clone
 ```
 
 ```
-create a db_helper.dart file in helpers folder
+create a location_helper.dart file in helpers folder
 ```
 
 ```
