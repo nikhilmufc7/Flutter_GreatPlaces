@@ -19,7 +19,7 @@ Get your Google Cloud API Key
 ```
 
 ```
-Add this to the db_helper
+Add this to the location_helper.dart file
 
 Add your api key to the variable
 
